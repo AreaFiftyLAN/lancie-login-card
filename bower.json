@@ -1,5 +1,6 @@
 {
   "name": "lancie-login-card",
+  "version": "1.0.0",
   "description": "Element that combines lancie-card and lancie-login-form",
   "main": "lancie-login-card.html",
   "dependencies": {
