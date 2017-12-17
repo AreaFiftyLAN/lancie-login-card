@@ -1,12 +1,12 @@
 {
   "name": "lancie-login-card",
-  "version": "1.0.0",
+  "version": "3.0.0",
   "description": "Element that combines lancie-card and lancie-login-form",
   "main": "lancie-login-card.html",
   "dependencies": {
     "polymer": "Polymer/polymer#^2.0.0",
     "paper-button": "PolymerElements/paper-button#^2.0.0",
-    "lancie-card": "AreaFiftyLAN/lancie-card#^2.0.0",
+    "lancie-card": "AreaFiftyLAN/lancie-card#^3.0.0",
     "lancie-login-form": "AreaFiftyLAN/lancie-login-form#^2.0.0"
   },
   "devDependencies": {
